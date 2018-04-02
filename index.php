@@ -317,18 +317,22 @@ car stereo navigation systems, good car sound systems, audio car security, car s
 	<!-- Events -->
 	<div class="events-section" id="events">
 		<div class="container">
-			<h3 class="tittle-w3ls two">Latest events</h3>
+			<h3 class="tittle-w3ls two">Popular Graphics</h3>
 			<div class="live-grids-w3ls">
 				<div class="live-left1">
 				</div>
 				<div class="live-info">
-					<h4>Daily Special Foods For Your Health</h4>
-					<h5>Quis nostrum exercitationem ullam corporis suscipit laboriosam.</h5>
-					<p class="para-w3-agileits">Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.Lorem ipsum dolor sit amet.Nam
-						aliquam pretium feugiat.
+					<h4>Car Roof and Pillar Graphic Decals - Set of 4 pcs</h4>
+					<h5>Add to Wishlist Be the first to review this product Availability: In Stock</h5>
+					<p class="para-w3-agileits">
+                        -> Scratch Resistant, High Quality Vinyl <br>
+                        -> No Color Fading, Long Lasting, Water Proof <br>
+                        -> Product Color: Black, Grey <br>
+                        -> No of Pcs: 4 pcs <br>
+                        -> Completely safe for your vehicle paint. No damage to paint or marks on removal
                     </p>
 					<ul>
-						<li><span class="fa fa-clock-o" aria-hidden="true"></span> Posted 2-feb-2017 at 9am</li>
+						<li><span class="fa fa-clock-o" aria-hidden="true"></span>   Rs. 4,950.00</li>
 					</ul>
 				</div>
 				<div class="clearfix"> </div>
