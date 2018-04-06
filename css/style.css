@@ -391,11 +391,11 @@ img.img-responsive {
 }
 
 .slider-img1 {
-	background: url(../images/ii_ppp.jpg) no-repeat 0px 0px;
+	background: url(../images/helloworld123.jpg) no-repeat 0px 0px;
 }
 
 .slider-img2 {
-	background: url(../images/vehicle_branding.jpg) no-repeat 0px 0px;
+	background: url(../images/en46c__76606_zoom.jpg) no-repeat 0px 0px;
 }
 
 .slider-img3 {
@@ -1111,7 +1111,7 @@ h3.subheading-w3-agile {
 /*-- Reservation --*/
 
 .reserve-bg-w3 {
-	background: url(../images/reserve.jpg)no-repeat 0px 0px;
+	background: url(../images/ui_U_kdkd.jpg)no-repeat 0px 0px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -1871,9 +1871,12 @@ ul.btm-nav {
 
 	.go_go{
 
+		font-family: 'Libre Baskerville', serif;
 		padding-bottom: 5%;
 		padding-top: 2%;
 		color: black;
+		font-weight: bold;
+
 
 
 	}
@@ -2493,11 +2496,11 @@ align-content: center;
 
 .go_go{
 
-
+	font-family: 'Libre Baskerville', serif;
 	padding-top: 2%;
 	color: black;
 	font-weight: bold;
-
+font-size: 2.5em;
 
 }
 

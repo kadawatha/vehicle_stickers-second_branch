@@ -32,6 +32,9 @@ car stereo navigation systems, good car sound systems, audio car security, car s
 	<link href="//fonts.googleapis.com/css?family=Raleway:300,400,500,600,800" rel="stylesheet">
 	<!--//fonts-->
 
+    <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:700" rel="stylesheet">
+    <!--    font-family: 'Libre Baskerville', serif;-->
+
 </head>
 
 <body>
@@ -56,7 +59,7 @@ car stereo navigation systems, good car sound systems, audio car security, car s
 					</div>
 
                     <h1 class="go_go" align="center">
-                        <a href="index.php">jayamal group of company </a>
+                       Jayamal group of company
                     </h1>
 
 
@@ -227,7 +230,7 @@ car stereo navigation systems, good car sound systems, audio car security, car s
 
 		<div class="reserve-form">
 
-			<h3 class="tittle-w3ls two">choose your table</h3>
+			<h3 class="tittle-w3ls two">Taking Your Cars Handling</h3>
 
 
               <h4 class="white"> We provide vehicle modification parts, other vehicle accessories and services including with professional branded equipment to modify your vehicle At jayamal group of company, we are driven by mantra to transform your vehicle into a canvas - A canvas which defines your individuality. We offer designer graphics for cars, bikes and scooters</h4>
@@ -259,8 +262,7 @@ car stereo navigation systems, good car sound systems, audio car security, car s
 
 
 
-				<p class="para-w3-agileits mid-p">Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.Lorem ipsum dolor sit amet.Nam
-					aliquam pretium feugiat.</p>
+				<p class="para-w3-agileits mid-p">We provide vehicle modification parts, other vehicle accessories and services including with professional branded equipment to modify your vehicle At jayamal group of company</p>
 				<div class="team-btm-img"></div>
 			</div>
 			<div class="col-md-7 team-right">
@@ -268,7 +270,7 @@ car stereo navigation systems, good car sound systems, audio car security, car s
 					<div class="team-grid-w3layouts">
 						<div class="team-infoagileits-w3layouts text-left">
 							<h3>Car Parking Sticker</h3>
-							<p>Head Chef</p>
+							<p>We provide vehicle modification parts, other vehicle accessories and services including with professional branded equipment to modify your vehicle At jayamal group of company</p>
 							<div class="social-icons-w3-agile">
 								<ul>
 									<li><a href="#"><span class="fa fa-facebook"></span></a></li>
@@ -281,13 +283,13 @@ car stereo navigation systems, good car sound systems, audio car security, car s
 					</div>
 					<div class="team-mid text-right">
 						<h3>Car Wraps</h3>
-						<p class="para-w3-agileits">Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.</p>
+						<p class="para-w3-agileits">We provide vehicle modification parts, other vehicle accessories and services including with professional branded equipment to modify your vehicle At jayamal group of company</p>
 					</div>
 					<div class="team-grid-w3layouts">
 						<img src="images/t4.jpg" alt="vehicle sticker" class="img-responsive">
 						<div class="team-infoagileits-w3layouts text-left">
 							<h3>Car Stickers</h3>
-							<p>Senior Chief Supervisor</p>
+							<p>We provide vehicle modification parts, other vehicle accessories and services including with professional branded equipment to modify your vehicle At jayamal group of company</p>
 
 						</div>
 					</div>
@@ -295,7 +297,7 @@ car stereo navigation systems, good car sound systems, audio car security, car s
 				<div class="col-md-6 team-inn">
 					<div class="team-mid text-left">
 						<h3>3D Sticker</h3>
-						<p class="para-w3-agileits">Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.</p>
+						<p class="para-w3-agileits">We provide vehicle modification parts, other vehicle accessories and services including with professional branded equipment to modify your vehicle At jayamal group of company</p>
 					</div>
 					<div class="team-grid-w3layouts">
 						<div class="team-infoagileits-w3layouts text-right">
@@ -307,7 +309,7 @@ car stereo navigation systems, good car sound systems, audio car security, car s
 					</div>
 					<div class="team-mid text-left">
 						<h3>Gold Alloy Letter Car Sticker</h3>
-						<p class="para-w3-agileits">Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.</p>
+						<p class="para-w3-agileits">We provide vehicle modification parts, other vehicle accessories and services including with professional branded equipment to modify your vehicle At jayamal group of company</p>
 					</div>
 				</div>
 			</div>
@@ -339,12 +341,18 @@ car stereo navigation systems, good car sound systems, audio car security, car s
 			</div>
 			<div class="live-grids-w3ls">
 				<div class="live-info text-right">
-					<h4>The Spicy Chicken Fry With RiceFood</h4>
-					<h5>Quis nostrum exercitationem ullam corporis suscipit laboriosam.</h5>
-					<p class="para-w3-agileits">Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.Lorem ipsum dolor sit amet.Nam
-						aliquam pretium feugiat.</p>
+					<h4>Custom Chopper Bike Tank Pad</h4>
+					<h5>Add to Wishlist Be the first to review this productAvailability: In Stock</h5>
+					<p class="para-w3-agileits">
+                       Scratch Resistant, High Quality Vinyl <br>
+                      No Color Fading, Long Lasting, Water Proof <br>
+                      Completely safe for your vehicle paint. No damage or Mark on removing <br>
+                       Easy to apply - Peel and Stick <br>
+                      Product Color: White, Red, Black, Grey <br>
+                      Suitable Vehicle Model: Royal Enfield 350 CC, Royal Enfield Thunderbird, Bajaj <br>
+                    </p>
 					<ul>
-						<li><span class="fa fa-clock-o" aria-hidden="true"></span> Posted 28-feb-2017 at 6pm</li>
+						<li><span class="fa fa-clock-o" aria-hidden="true"></span>  Rs. 389.00</li>
 					</ul>
 				</div>
 				<div class="live-left2">
@@ -355,12 +363,18 @@ car stereo navigation systems, good car sound systems, audio car security, car s
 				<div class="live-left3">
 				</div>
 				<div class="live-info">
-					<h4>Drinks With GarnishFried Tomato Chosey</h4>
-					<h5>Quis nostrum exercitationem ullam corporis suscipit laboriosam.</h5>
-					<p class="para-w3-agileits">Lorem ipsum dolor sit amet, consectetur adipisc elit. Proin ultricies vestibulum velit.Lorem ipsum dolor sit amet.Nam
-						aliquam pretium feugiat.</p>
+					<h4>Activa Tangerine Scooter Graphic Decals - Set of 2 pcs</h4>
+					<h5>Add to Wishlist Be the first to review this product Availability: In Stock</h5>
+					<p class="para-w3-agileits">
+                        -> Scratch Resistant, High Quality Vinyl Based <br>
+                        -> No Color Fading, Long Lasting, Water Proof <br>
+                        -> Size: Left Side: 15 inch X 8 inch, Right Side: 15 inch X 8 inch, No of pieces: 2 <br>
+                        -> Color: White,Silver,Gold,Black,Blue,Brown <br>
+                        -> Completely safe for your Vehicle paint. No damage to paint or marks on removal <br>
+                        -> DIY- Peel and Stick <br>
+                    </p>
 					<ul>
-						<li><span class="fa fa-clock-o" aria-hidden="true"></span> Posted 10-Mar-2017 at 12pm</li>
+						<li><span class="fa fa-clock-o" aria-hidden="true"></span>  Rs. 189.00</li>
 					</ul>
 				</div>
 				<div class="clearfix"> </div>
@@ -396,6 +410,10 @@ car stereo navigation systems, good car sound systems, audio car security, car s
 							</a>
 					</div>
 				</div>
+
+
+
+
 				<div class="col-md-4 gallery-grids">
 					<div class="galry-img-agileinfo">
 						<a href="images/g3.jpg" class="swipebox" title="Black and Gold">
@@ -486,10 +504,11 @@ car stereo navigation systems, good car sound systems, audio car security, car s
 								<div class="inner-testimonials-w3ls">
 									<img src="images/1.jpg" alt=" " class="img-responsive" />
 									<div class="testimonial-info-wthree">
-										<h5>Andy Wovel</h5>
-										<span>Lorem Ipsum</span>
-										<p class="para-w3-agileits">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis hendrerit lobortis elementum, Quis nostrum exercitationem
-											ullam corporis suscipit laboriosam. </p>
+										<h5>Harsha dissanayake</h5>
+										<span></span>
+										<p class="para-w3-agileits">Many people doubt the difference it would make and question our claims.
+
+                                            The fact remains that Ultra Racing Products Deliver such a stunning improvement to a vehicles handling , stability, reduce tire wear and give a car such a planted feeling that once your experience it you will never drive without it.</p>
 									</div>
 								</div>
 							</li>
@@ -497,10 +516,11 @@ car stereo navigation systems, good car sound systems, audio car security, car s
 								<div class="inner-testimonials-w3ls">
 									<img src="images/2.jpg" alt=" " class="img-responsive" />
 									<div class="testimonial-info-wthree">
-										<h5>Bernard Russo</h5>
-										<span>Lorem Ipsum</span>
-										<p class="para-w3-agileits">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis hendrerit lobortis elementum, Quis nostrum exercitationem
-											ullam corporis suscipit laboriosam. </p>
+										<h5>Range ganesh</h5>
+										<span></span>
+										<p class="para-w3-agileits">Many people doubt the difference it would make and question our claims.
+
+                                            The fact remains that Ultra Racing Products Deliver such a stunning improvement to a vehicles handling , stability, reduce tire wear and give a car such a planted feeling that once your experience it you will never drive without it. </p>
 									</div>
 								</div>
 							</li>
@@ -508,10 +528,11 @@ car stereo navigation systems, good car sound systems, audio car security, car s
 								<div class="inner-testimonials-w3ls">
 									<img src="images/3.jpg" alt=" " class="img-responsive" />
 									<div class="testimonial-info-wthree">
-										<h5>Alex Merphy & July Mao</h5>
-										<span>Lorem Ipsum</span>
-										<p class="para-w3-agileits">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis hendrerit lobortis elementum, Quis nostrum exercitationem
-											ullam corporis suscipit laboriosam. </p>
+										<h5>Sumith gunawardhana</h5>
+										<span></span>
+										<p class="para-w3-agileits">Many people doubt the difference it would make and question our claims.
+
+                                            The fact remains that Ultra Racing Products Deliver such a stunning improvement to a vehicles handling , stability, reduce tire wear and give a car such a planted feeling that once your experience it you will never drive without it. </p>
 									</div>
 								</div>
 							</li>
@@ -543,18 +564,17 @@ car stereo navigation systems, good car sound systems, audio car security, car s
 		</div>
 		<div class="address">
 			<h3 class="subheading-w3-agile">Address Info</h3>
-			<p class="para-w3-agileits">Malesuada penatibus felis Neque porro quisquam est qui dolorem Lorem ipsum dolor sit amet, aptent neque fringilla duis
-				erast ridiculus.</p>
-			<p class="sub"><span class="fa fa-map-marker" aria-hidden="true"></span>New York NW Washington, DC USA</p>
-			<p class="sub"><span class="fa fa-clock-o" aria-hidden="true"></span>Mon-Sat : 9am - 10pm , Sun : 9am - 12am.</p>
-			<p class="sub"><span class="fa fa-phone" aria-hidden="true"></span>+0 (020) 123-5338</p>
-			<p class="sub"><span class="fa fa-envelope-o" aria-hidden="true"></span><a class="mail" href="mailto:mail@example.com">info(at)example.com</a></p>
+			<p class="para-w3-agileits">Working with some of the most enthusiastic car lovers in Sri Lanka the challenge in convincg a client to install an Ultra Racing Product is most formidable as many enthusiasts are very particular on modification and vehicle enhancement.</p>
+			<p class="sub"><span class="fa fa-map-marker" aria-hidden="true"></span>294,Colombo Rd,Negombo</p>
+			<p class="sub"><span class="fa fa-clock-o" aria-hidden="true"></span>Mon-Fri : 8am - 8pm , Sat-Sun : 8am - 8am.</p>
+			<p class="sub"><span class="fa fa-phone" aria-hidden="true"></span>031 7900802</p>
+			<p class="sub"><span class="fa fa-envelope-o" aria-hidden="true"></span><a class="mail" href="mailto:mail@example.com">info@jayamalgroupgmail.com</a></p>
 		</div>
 		<div class="clearfix"></div>
 	</div>
 	<!-- map-w3-agile -->
 	<div class="map-w3-agile">
-		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3104.908429817192!2d-77.02329388457728!3d38.903209279569765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b78d3ba21759%3A0xe40950d6c8bffd67!2sNew+York+Ave+NW%2C+Washington%2C+DC%2C+USA!5e0!3m2!1sen!2sin!4v1515133358060"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.316963143274!2d79.84952521477453!3d7.204632994798632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2ee8d2ccc0f8d%3A0x680fc04d54b38a7e!2s298+Puttalam+-+Colombo+Rd%2C+Negombo!5e0!3m2!1sen!2slk!4v1522731595356" width="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
 	</div>
 	<!-- //map-w3-agile -->
 
@@ -566,18 +586,7 @@ car stereo navigation systems, good car sound systems, audio car security, car s
 			<div class="btm-logo">
 				<h2><a href="index.php">Jayamal group of company</a></h2>
 			</div>
-			<div class="subscribe">
-				<h6>Subscribe to get notifications.</h6>
-				<form action="#" method="post">
-					<div class="col-md-8 col-sm-8 col-xs-8 input-flds-agile">
-						<input type="email" name="Email" placeholder="Email" required="">
-					</div>
-					<div class="col-md-4 col-sm-4 col-xs-4 input-flds-agile">
-						<input type="submit" value="Subscribe">
-					</div>
-					<div class="clearfix"> </div>
-				</form>
-			</div>
+
 			<div class="bottom-menu-nav">
 				<nav>
 					<ul class="btm-nav">
@@ -601,7 +610,7 @@ car stereo navigation systems, good car sound systems, audio car security, car s
 	</div>
 
 	<div class="copy-w3-agile">
-		<p>© <?php echo date("Y");   ?> Jayamal group of company . All Rights Reserved | Design by <a href="#">SKY DIGITAL</a> </p>
+		<p>© <?php echo date("Y");   ?> Jayamal group of company . All Rights Reserved | Design by <p href="#">SKY DIGITAL</p> </p>
 	</div>
 	<!--// footer -->
 
