@@ -73,7 +73,7 @@ car stereo navigation systems, good car sound systems, audio car security, car s
                                 <li><a href="index.php" class="active scroll">Home</a></li>
                                 <li><a href="#about" class="scroll">About</a></li>
                                 <li><a href="#events" class="scroll">Events</a></li>
-                                <li><a href="#team" class="scroll">Team</a></li>
+                                <li><a href="#team" class="scroll">Fashion</a></li>
                                 <li><a href="#gallery" class="scroll">Gallery</a></li>
                                 <li><a href="#contact" class="scroll">Contact</a></li>
                             </ul>
@@ -270,7 +270,7 @@ car stereo navigation systems, good car sound systems, audio car security, car s
 					<div class="team-grid-w3layouts">
 						<div class="team-infoagileits-w3layouts text-left">
 							<h3>Car Parking Sticker</h3>
-							<p>We provide vehicle modification parts, other vehicle accessories and services including with professional branded equipment to modify your vehicle At jayamal group of company</p>
+							<p> For inside or outside of window. Static cling, reflective, destructible options.</p>
 							<div class="social-icons-w3-agile">
 								<ul>
 									<li><a href="#"><span class="fa fa-facebook"></span></a></li>
@@ -283,13 +283,13 @@ car stereo navigation systems, good car sound systems, audio car security, car s
 					</div>
 					<div class="team-mid text-right">
 						<h3>Car Wraps</h3>
-						<p class="para-w3-agileits">We provide vehicle modification parts, other vehicle accessories and services including with professional branded equipment to modify your vehicle At jayamal group of company</p>
+						<p class="para-w3-agileits">part wrap with super high gloss black. 20% off for super high gloss black roof wrap</p>
 					</div>
 					<div class="team-grid-w3layouts">
 						<img src="images/t4.jpg" alt="vehicle sticker" class="img-responsive">
 						<div class="team-infoagileits-w3layouts text-left">
 							<h3>Car Stickers</h3>
-							<p>We provide vehicle modification parts, other vehicle accessories and services including with professional branded equipment to modify your vehicle At jayamal group of company</p>
+							<p>We offers high-quality custom stickers, die cut stickers, vinyl lettering, transfer stickers & more at wholesale prices! No minimum quantity!</p>
 
 						</div>
 					</div>
@@ -309,7 +309,7 @@ car stereo navigation systems, good car sound systems, audio car security, car s
 					</div>
 					<div class="team-mid text-left">
 						<h3>Gold Alloy Letter Car Sticker</h3>
-						<p class="para-w3-agileits">We provide vehicle modification parts, other vehicle accessories and services including with professional branded equipment to modify your vehicle At jayamal group of company</p>
+						<p class="para-w3-agileits">manufacturing Adhesive sticker, Metal 3D Chrome Punisher and Golden Sticker. We are a Sole Proprietorship (Individual) entity and we provide the quality assured products in the market.</p>
 					</div>
 				</div>
 			</div>
@@ -592,7 +592,7 @@ car stereo navigation systems, good car sound systems, audio car security, car s
 					<ul class="btm-nav">
 						<li><a href="index.php">Home</a></li>
 						<li><a href="#about" class="scroll">About</a></li>
-						<li><a href="#team" class="scroll">Team</a></li>
+						<li><a href="#team" class="scroll">Fashion</a></li>
 						<li><a href="#contact" class="scroll">Contact</a></li>
 					</ul>
 				</nav>
